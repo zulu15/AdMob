@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PublicidadInApp</string>
+    <!-- Add your banner key here -->
+    <string name="banner_inferior_id"></string>
+</resources>
